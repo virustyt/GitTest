@@ -14,7 +14,6 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         //HELLO Git
         //Second commit
-        // third commit
     }
 
 
